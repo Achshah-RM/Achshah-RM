@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Achshah R M.
 - 👀 I’m interested in Machine Learning using Python.
-- 🌱 I’m currently learning BTech Artificial Intelligence and Data Science.
+- 🌱 I’m currently learning BSc in Applied Artificial Intelligence at IU International University, Germany.
 - 💞️ I’m looking to collaborate on projects related ML algorithms (AI and DS).
 - 📫 You can reach me in samuelachsha108@gmail.com.
 
